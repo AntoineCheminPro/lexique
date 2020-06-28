@@ -78,10 +78,26 @@ Exécuté côté serveur (l'endroit ou est hebergé le site) il n'y'a pas besoin
 Néanmoins, les webmasters qui souhaitent développer un sit en PHP doivent s'assurer que l'hébergeur prend en compte ce langage.
 Lorsequ'une page PHP est exécutée par le serveur, alors celui-ci renvoi généralement au client (aux visiteurs du site) une page web qui peut contenir du HTML, XHTML, CSS Javascript...
 
-***- intégration : ***
 
+### Intégration, Front-End Back-End
+
+***- intégration : ***
+L'intégration est une phase d'un projet durant laquelle on vérifie le produit par des tests d'intégration ;
+l'intégration de système désigne également la conception et la réalisation d'un systéme d'information intégré par la mise en relation (interfaçage de différents logiciels ou matériels existants ;
+l'intégration est aussi le développement web côté client.
+
+Il ne faut pas consondre l'intégration informatique avec l'intégration continue qui désigne une pratique employée par les developpeurs et qui consiste à fusionner des versions de cords qui fonctionnent sur un référentiel partagé plusieurs fois par jours.
+L'objectif de l'intégration continue est d'automatiser la création de versions et la vérification afin de détecter rapidement les eventuelles erreurs et d'accélérer le développement.
 
 ***- front-end : ***
+Le terme "Front-End" désigne les éléments d'un site que l'on voit à l'écran et avec lesquels on peut interagie depuis un navigateur. En effet, tout ce qu'on voit sur un site internet par exemple, est une combinaison de HTML, CSS et JavaScript.
+Ces langages de programmation utilisés par lde developpeur Front-End sont interprétés par le navigateur de votre ordinateur pour afficher un résultat visuel. Il s'agit notamment de polices, de menus déroulants, de boutons, de transitions, de curseurs,
+de formulaires de contacts, etc.
+
+Le Front-End se compose généralement :
+d'un design créé par un web designer qui réalise des maquettes graphiques vie des outilsde créantion comme photoshop ou Fireworks ;
+de code HTML, CSS, JavaScript et jQuery mis en place par un développeur Front-End.
+Maintenant, pour que le travail du développeur Front-End prenne vie, et que le site soit fonctionnel, il manque encore quelques éléments. C'est là qu'entre en scéne le développeur Back-End.
 
 
 ***- back-end : ***
