@@ -99,9 +99,25 @@ d'un design créé par un web designer qui réalise des maquettes graphiques vie
 de code HTML, CSS, JavaScript et jQuery mis en place par un développeur Front-End.
 Maintenant, pour que le travail du développeur Front-End prenne vie, et que le site soit fonctionnel, il manque encore quelques éléments. C'est là qu'entre en scéne le développeur Back-End.
 
-
 ***- back-end : ***
+Le « backend » est un peu comme la partie immergée d’un iceberg. On ne la voit pas en tant que simple Internaute mais elle représente une très grande partie d’un projet web.
+Le Backend se compose généralement de trois éléments :
+- Un serveur (hébergement web)
+- Une application (site web, administration)
+- Une base de données (sorte de feuille de calcul pour organiser les données)
 
+Prenons un exemple pour comprendre le fonctionnement du Back End : Imaginons que vous deviez réserver un vol en ligne pour vos futures vacances. 
+Vous vous rendez sur le site de la compagnie aérienne et recherchez le vol qui vous convient. 
+Une fois le vol sélectionné, vous renseignez vos informations personnelles et validez votre réservation. 
+Vos informations sont alors enregistrées dans une base de données stockée sur un serveur.
+Toutes ces informations restent sur le serveur, alors quand vient l’heure des vacances (2 mois plus tard) vous vous connectez à l’espace client (application) 
+pour imprimer vos billets d’avion et toutes les informations que vous aviez renseignées lors de votre réservation sont disponibles sur votre compte.
+La personne qui administre toute cette technologie est le développeur back end.
+
+Les technologies Backend se composent généralement de langages comme PHP, Ruby, Python, etc. 
+Pour les rendre encore plus faciles à utiliser, ils sont généralement améliorés par des Framework comme Ruby on Rails, Cake PHP, Symfony et Code Igniter 
+qui rendent le développement plus rapide et plus sécurisé.
+De plus en plus de développeurs disposent à la fois de compétences en backend et en frontend. On les appelle développeurs Full Stack.
 
 ***- client : ***
 
