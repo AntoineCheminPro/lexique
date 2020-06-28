@@ -119,11 +119,23 @@ Pour les rendre encore plus faciles à utiliser, ils sont généralement amélio
 qui rendent le développement plus rapide et plus sécurisé.
 De plus en plus de développeurs disposent à la fois de compétences en backend et en frontend. On les appelle développeurs Full Stack.
 
-***- client : ***
 
+###client, serveur et base de données
+***- client : ***
+Dans un réseau informatique, un client est un logiciel qui envoie des demandes à un serveur. Il peut s'agir d'un logiciel manipulé par une personne, ou d'un bot.
+Est appelé client aussi bien l'ordinateur depuis lequel les demandes sont envoyées que le logiciel qui contient les instructions relatives à la formulation des demandes et la personne qui opére les demandes.
+L'ordinateur client est généralement un ordinateur personnel unitaire, équipé de logiciels relatifs aux différents types de demandes qui vont être encoyées, comme un navigateur web, un logiciel client pour le World Wide Web.
 
 ***- serveur : ***
-
+Un serveur informatique offre des services accessibles vie un réseau. Il peut être matériel ou logiciel, c'est un ordinateur qui éxécute des opérations suivant les requêtes effectuées par un autre ordinateur appellé "client".
+C'est pourquoi on parle de relation client-cerveur.
+Par exemple, un utilisateur (client) va rechercher un site internet en utilisant un navigateur web, pour que ce dernier puisse l'afficher il va effectuer une requête au serveur HTTP qui est un serveur web.
 
 ***- base de données : ***
+
+Une Base de données (en anglais database), permet de stocker et de retrouver l'intégralité de données brutes ou d'informations en rapport avec un thème ou une activité ;
+celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles.
+En effet, leur données pêuvent y être trés structurées (base de données relationnelles par exemple), ou hébergées sous la forme de données brutes déstructurées (base de données NoSQL Redis par ex) qui, dans ce cas, 
+seront en suite parcourues de maniére organisée au moment de la lecture via des moteurs spécifiques (comme Elasticsearch).
+Une base de données peut être localisée dans un même lieu et sur le même support informatisé, ou réparties sur plusieurs machines à plusieurs endroits.
 
