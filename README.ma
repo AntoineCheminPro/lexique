@@ -72,7 +72,11 @@ L'intérêt du JavaScript est d'exécuté un code sans avoir à recharger une no
 La technique AJAX (Asynchronous Javascript And XML) utilise grandement le JavaScript dans le but d'interagir sur la page de manière dynamique.
 
 ***- php : ***
-
+Le php est un langage informatique utilisé sur l'internet/ Le terme php est un acronyme récursif de "hypertexte preprocessor".
+Ce langage est principalement utilisé pour produire un site web dynamique. Il est courant que ce langage soit associé à une base de donnée, tel que MySQL.
+Exécuté côté serveur (l'endroit ou est hebergé le site) il n'y'a pas besoin aux visiteurs d'avoir de logiciel ou plugins particulier.
+Néanmoins, les webmasters qui souhaitent développer un sit en PHP doivent s'assurer que l'hébergeur prend en compte ce langage.
+Lorsequ'une page PHP est exécutée par le serveur, alors celui-ci renvoi généralement au client (aux visiteurs du site) une page web qui peut contenir du HTML, XHTML, CSS Javascript...
 
 ***- intégration : ***
 
@@ -90,3 +94,4 @@ La technique AJAX (Asynchronous Javascript And XML) utilise grandement le JavaSc
 
 
 ***- base de données : ***
+
